@@ -1,3 +1,2 @@
-# Real Time Connection with Web Sockets
-# Chatter Box  
-messaging application
+# Chatter Box 
+Real Time Messaging Application with a GUI
